@@ -16,4 +16,7 @@
 
 @property (nonatomic, assign) BOOL isTop;
 
+@property (nonatomic, assign) NSInteger isHaveMarket;
+
+
 @end
